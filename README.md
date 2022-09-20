@@ -1,5 +1,6 @@
 # NemoCurrentPredGUI
-This is a simple R Shiny app that intercts with the SalishSeaCast NEMO model (Soontiens et al. 2016; https://salishsea.eos.ubc.ca/nemo/). 
+This is a simple R Shiny app that intercts with the SalishSeaCast NEMO model (Soontiens et al. 2016; https://salishsea.eos.ubc.ca/nemo/). This was created by K.J. Palmer of SMRU Consulting on behalf of the Port of Vancouver Frasier Port Authority's Enhancing Cetacean Habitat and Observation Program (https://www.portvancouver.com/environmental-protection-at-the-port-of-vancouver/maintaining-healthy-ecosystems-throughout-our-jurisdiction/echo-program/). The goal of this application is to allow pilots entering or leaving Vancouver to quickly estimate currents throught the slowdown area.
+
 The GUI takes user information on the approximate location of the tidal prediction (12 options) and builds a URL to query the database of predictions assuming 10m depth. It then calculates the magnitude of the current (in knots) and the <b> uncorrected </b> current direction.
 
 Things to consider

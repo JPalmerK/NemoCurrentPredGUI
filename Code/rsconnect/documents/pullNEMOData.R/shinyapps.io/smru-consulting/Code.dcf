@@ -1,0 +1,14 @@
+name: Code
+title: Code
+username:
+account: smru-consulting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7068232
+bundleId: 6413373
+url: https://smru-consulting.shinyapps.io/Code/
+when: 1666061624.75639
+lastSyncTime: 1666061624.75639
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|www/ubcSSfDepthAvgdCurrents1h_294d_dcb1_a370.csv

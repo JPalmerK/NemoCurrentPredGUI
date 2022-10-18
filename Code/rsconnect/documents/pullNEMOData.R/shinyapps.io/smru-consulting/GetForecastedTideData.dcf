@@ -1,0 +1,14 @@
+name: GetForecastedTideData
+title: GetForecastedTideData
+username:
+account: smru-consulting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6901944
+bundleId: 6416928
+url: https://smru-consulting.shinyapps.io/GetForecastedTideData/
+when: 1666130118.48019
+lastSyncTime: 1666130118.48019
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/ubcSSfDepthAvgdCurrents1h_294d_dcb1_a370.csv

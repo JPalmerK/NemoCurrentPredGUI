@@ -1,0 +1,12 @@
+name: Code
+title: Code
+username: kjpalmer
+account: kjpalmer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11622578
+bundleId: 8434552
+url: https://kjpalmer.shinyapps.io/Code/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
